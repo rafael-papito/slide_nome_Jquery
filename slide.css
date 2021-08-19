@@ -33,3 +33,6 @@
 	border: 0;
 	text-decoration: none;
 }
+.apresentacao input[type=text]:focus{
+    outline: 0;
+}
