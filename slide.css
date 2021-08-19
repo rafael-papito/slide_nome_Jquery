@@ -16,3 +16,20 @@
 	padding: 0 20px;
 	font-family: 'Train One', cursive;
 }
+.apresentacao h3{
+	color: #fff;
+	font-size: 40px;
+	padding: 0 20px;
+	margin-top:10px ;
+	margin-bottom:40px ;
+}
+.apresentacao input[type=text]{
+	font-size: 70px;
+	width: 70%;
+	font-family: lato;
+	color: #fff;
+	text-align: center;
+	background: 0  0;
+	border: 0;
+	text-decoration: none;
+}
