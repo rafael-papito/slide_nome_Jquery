@@ -41,7 +41,16 @@
 
 }
 @media screen and (max-width:700px){
-
+	.apresentacao h1{
+		font-size: 60px;
+	}
+	.apresentacao h3{
+		font-size: 30px;
+	}
+	.apresentacao input[type=text]{
+		font-size: 40px;
+		width: 100%;
+	}
 }
 @media screen and (max-width:500px){
 	.apresentacao h1{
