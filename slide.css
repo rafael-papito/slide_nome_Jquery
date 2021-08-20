@@ -36,3 +36,12 @@
 .apresentacao input[type=text]:focus{
     outline: 0;
 }
+@media screen and (max-width:861px){
+
+}
+@media screen and (max-width:700px){
+
+}
+@media screen and (max-width:500px){
+	
+}
