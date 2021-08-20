@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 2% 0;
+	background-color: black;
 }
 .apresentacao{
 	width: 500px;
@@ -43,5 +44,16 @@
 
 }
 @media screen and (max-width:500px){
-	
+	.apresentacao h1{
+		font-size: 40px;
+		margin-top: 40px;
+	}
+	.apresentacao h3{
+		font-size: 24px;
+		margin-top: 40px;
+	}
+	.apresentacao input[type=text]{
+		font-size: 40px;
+		width: 100%;
+	}
 }
